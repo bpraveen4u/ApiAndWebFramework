@@ -1,0 +1,7 @@
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\bin\Debug\Sample.Fpp.Data.Contract.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\bin\Debug\Sample.Fpp.Data.Contract.pdb
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\bin\Debug\Sample.Fpp.Entities.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\bin\Debug\Sample.Fpp.Entities.pdb
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\obj\Debug\Sample.Fpp.Data.Contract.csprojResolveAssemblyReference.cache
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\obj\Debug\Sample.Fpp.Data.Contract.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Data.Contract\obj\Debug\Sample.Fpp.Data.Contract.pdb

@@ -1,0 +1,8 @@
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\bin\Debug\Sample.Fpp.Infrastructure.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\bin\Debug\Sample.Fpp.Infrastructure.pdb
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\obj\Debug\Sample.Fpp.Infrastructure.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\obj\Debug\Sample.Fpp.Infrastructure.pdb
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\bin\Debug\Sample.Fpp.Infrastructure.dll.config
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\obj\Debug\Sample.Fpp.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\bin\Debug\NLog.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Infrastructure\bin\Debug\NLog.xml

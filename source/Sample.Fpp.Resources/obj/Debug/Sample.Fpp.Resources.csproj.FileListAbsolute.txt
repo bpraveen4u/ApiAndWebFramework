@@ -1,0 +1,7 @@
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\bin\Debug\Sample.Fpp.Resources.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\bin\Debug\Sample.Fpp.Resources.pdb
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\obj\Debug\Sample.Fpp.Resources.csprojResolveAssemblyReference.cache
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\obj\Debug\Sample.Fpp.Resources.Main.resources
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\obj\Debug\Sample.Fpp.Resources.csproj.GenerateResource.Cache
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\obj\Debug\Sample.Fpp.Resources.dll
+D:\Labo\ApiAndWebFramework\Sample.Fpp.Resources\obj\Debug\Sample.Fpp.Resources.pdb
